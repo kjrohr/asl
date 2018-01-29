@@ -1,0 +1,83 @@
+What are frameworks
+	Third part code that help as the abse of customizable and 
+	feature-rich web applications
+
+	Most frameworks have
+		Routing
+		Templating
+		Validation Tools
+		ORM/Database interaction
+
+Why do we need frameworks?
+	Dozens of major frameworks
+	Maintained and updatable
+	3rd part packages/plugins
+	Well documented (the good ones)
+	Security
+	Many are open source and can be forked and will accept
+	contributions
+
+What frameworks are out there?
+	Full-Stack Frameworks
+		Full Stack have much more in the way of featured
+			Tend to scale up better
+			Heavier in file size
+
+	Micro frameworks will
+		often have less functionality
+		quicker to build
+		tend to be less flexible
+		Scale less easily
+
+	Full Stack Frameworks
+		Express/NodeJS (JavaScript)
+		Laravel (PHP)
+		Zend (PHP)
+		Django (Python)
+
+	Micro Frameworks
+		Codeigniter (PHP)
+		Slim (PHP)
+		Yii (PHP)
+		Flask (Python)
+
+Tools for ASL
+	In this class we use Express/NodeJS and Symfony
+
+Dependancy Managers
+	Pieces of reusable code
+	Version management
+	Cleaner file system
+
+	npm for node
+	composer for php
+
+Install
+	NVM (Node Version Manager)
+	
+Content Management Systems
+	Make updates to your content without touching code
+	Saves time and money
+	Visual editor of content
+	Lots of expandable functionality
+
+Popular CMS
+	Wordpress
+	Drupal
+	Joomla
+
+Wordpress
+	Great for beginners
+	Works well for small websites and blogs
+	Community support
+
+Joomla
+	Quick social networking setup
+	Commerce sites painless
+	Help portal
+
+Drupal
+	More techincally advanced
+	Better performance
+
+
