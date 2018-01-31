@@ -127,3 +127,15 @@ Different Design Patterns
 			Post /items/
 			Put /items/:id
 			DELETE /items/:id
+
+Install a version of node
+	nvm install version number
+		nvm install 8.0.0
+
+Install a module
+	Application Dependency
+		npm install moduleName --save
+	Dev Dependency
+		npm install moduleName -D
+
+	
