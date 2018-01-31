@@ -81,3 +81,49 @@ Drupal
 	Better performance
 
 
+Routing
+	Before MVC
+		< href="contact.php">Contact</a>
+		Pages contained all the code for that page
+		The links were specific
+
+	After MVC
+		Nicer links for the user
+		Ability to distribute code
+		Better security
+
+Requests
+	GET
+	POST
+	PUT
+	DELETE
+
+
+Routing PArts
+	Pieces that make a whole
+		Request
+			Specific url
+			Type
+			Data
+		Repsonse
+			Status
+			Data
+
+Different Design Patterns
+	RPC
+		More refined
+			Uses the basic protocols with
+			more defined structure
+			GET /items/list
+			GET /items?id=XX
+			POST /items/new
+			POST /items/update?id=XX
+	Rest
+		Everything has its place
+			Uses the different HTTP methods 
+			to map to actions
+			Get /items
+			Get /items/:id
+			Post /items/
+			Put /items/:id
+			DELETE /items/:id
